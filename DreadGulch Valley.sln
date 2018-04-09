@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DreadGulch Valley", "Assembly-CSharp.csproj", "{3BF1B1C1-7F26-2C4F-C385-5C827A1A37FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DreadGulch Valley", "Assembly-CSharp-firstpass.csproj", "{5E34AFDA-E289-637D-3BDA-045D6008874C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BF1B1C1-7F26-2C4F-C385-5C827A1A37FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BF1B1C1-7F26-2C4F-C385-5C827A1A37FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BF1B1C1-7F26-2C4F-C385-5C827A1A37FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BF1B1C1-7F26-2C4F-C385-5C827A1A37FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E34AFDA-E289-637D-3BDA-045D6008874C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E34AFDA-E289-637D-3BDA-045D6008874C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E34AFDA-E289-637D-3BDA-045D6008874C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E34AFDA-E289-637D-3BDA-045D6008874C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
